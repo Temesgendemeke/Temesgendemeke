@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Temesgen</h1>
 <h3 align="center">A Backend developer from Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=temesgendemeke&label=Profile%20views&color=0e75b6&style=flat" alt="temesgendemeke" /> </p>
+ 
+
 
 - 🔭 I’m currently working on [off the grid](https://github.com/Temesgendemeke/off-the-grid)
 
