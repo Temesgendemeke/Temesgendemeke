@@ -1,7 +1,7 @@
 # 💻 **Temesgen Demeke**  
 **Full-Stack Software Engineer | Open-Source Contributor | Lifelong Learner**  
 
-🚀 Welcome to my GitHub! I specialize in **Django** and **ReactJS**, crafting elegant web apps and tools that solve real-world problems. As an ALX Software Engineering graduate and a second-year Software Engineering student at **Wolkite University**, I'm passionate about building innovative projects that merge functionality with great user experience.  
+I specialize in **Django** and **ReactJS**, crafting elegant web apps and tools that solve real-world problems. As an ALX Software Engineering graduate and a second-year Software Engineering student at **Wolkite University**, I'm passionate about building innovative projects that merge functionality with great user experience.  
 
 
 ## 🌐 Socials:
