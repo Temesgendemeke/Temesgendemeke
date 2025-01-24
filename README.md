@@ -13,7 +13,6 @@ Hi there! I’m Temesgen, a full-stack developer passionate about creating elega
 ## 🌟 **Projects & Highlights**  
 - **[Quizo](https://github.com/Temesgendemeke/quizo)**: A Django-powered app connected to a postgresql database, featuring interactive tools and quizzes.  
 - **[Note-Taking App](https://github.com/Temesgendemeke/notebuddy)**: A React-based app supporting  text customization, and photo embedding, inspired by **Notion**.  
-- **[CLI To-Do List](https://github.com/Temesgendemeke/cli_todolist)**: A command-line app built using a singly linked list data structure for effective task management.
 - **[simple_shell](https://github.com/Temesgendemeke/simple_shell)** is a custom Unix shell implemented in C, featuring command execution, process handling, and user input parsing. It highlights expertise in low-level programming and system processes.  
 
 # 📊 GitHub Stats:
