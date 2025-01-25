@@ -1,7 +1,7 @@
 # 💻 **Temesgen Demeke**  
 **Full-Stack Software Engineer | Open-Source Contributor | Lifelong Learner**  
 
-Hi there! I’m Temesgen, a full-stack developer passionate about creating elegant web applications and tools that truly make a difference. With expertise in **Django** and **ReactJS**, I focus on building innovative projects that combine seamless functionality with an excellent user experience.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/temesgen-demeke) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/temesgendora) 
