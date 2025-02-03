@@ -19,8 +19,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=temesgendemeke&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--- ![](https://github-readme-stats.vercel.app/api?username=temesgendemeke&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=temesgendemeke&theme=dark&hide_border=false) -->
 
-<figure><embed src="https://wakatime.com/share/@cb420f59-f345-4002-8cee-7eb7c812f07e/31bc210f-ddf4-44a6-ba9a-57ce84f14515.svg"></embed></figure>
----
 
+---
+<figure><embed src="https://wakatime.com/share/@cb420f59-f345-4002-8cee-7eb7c812f07e/31bc210f-ddf4-44a6-ba9a-57ce84f14515.svg"></embed></figure>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
