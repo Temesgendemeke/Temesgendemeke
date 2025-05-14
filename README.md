@@ -4,7 +4,7 @@
 ---
 
 ### 🧠 About Me  
-I craft scalable backend systems, intuitive frontends, and low-level tools with care and precision. Focused on clean code, performance, and simplicity — from Unix shells in C to full-stack apps with Django and React.
+I build reliable backend systems, clean user interfaces, and low-level tools. I focus on writing simple, readable code and enjoy working across the stack — from C programs to full-stack apps with Django and NextJS.
 
 ---
 
