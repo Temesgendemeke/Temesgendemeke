@@ -1,5 +1,5 @@
 # 💻 Temesgen Demeke  
-**Full-Stack Software Engineer **
+**Full-Stack Software Engineer**
 
 ---
 
