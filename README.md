@@ -17,9 +17,7 @@ I build reliable backend systems, clean user interfaces, and low-level tools. I 
 ---
 
 ### 🚀 Notable Projects  
-- **[Quizo](https://github.com/Temesgendemeke/quizo)** – Gamified quiz app powered by Django + PostgreSQL  
-- **[NoteBuddy](https://github.com/Temesgendemeke/notebuddy)** – React-based Notion-style notes with media & markdown  
-- **[simple_shell](https://github.com/Temesgendemeke/simple_shell)** – Custom Unix shell written in C  
+
 
 ---
 
